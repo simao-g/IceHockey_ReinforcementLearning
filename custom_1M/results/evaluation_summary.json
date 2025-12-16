@@ -1,0 +1,80 @@
+{
+  "DQN": {
+    "algorithm": "DQN",
+    "environment": "custom",
+    "n_episodes": 100,
+    "mean_reward": 0.0007500001229345798,
+    "std_reward": 0.0015580437611788511,
+    "min_reward": -0.00800000037997961,
+    "max_reward": 0.0020000000949949026,
+    "median_reward": 0.0010000000474974513,
+    "q25_reward": 0.0,
+    "q75_reward": 0.0020000000949949026,
+    "mean_length": 830.89,
+    "std_length": 45.37441900454484,
+    "eval_time_seconds": 342.10032320022583,
+    "custom_stats": {
+      "mean_original_reward": -4.41,
+      "mean_modified_reward": -3.634020000000033,
+      "reward_delta": 0.7759799999999673,
+      "mean_goals_scored": 5.78,
+      "mean_goals_conceded": 10.19,
+      "mean_movement_bonuses": 216.83,
+      "mean_fire_bonuses": 489.57,
+      "mean_repetition_penalties": 100.45,
+      "mean_fire_window_penalties": 0.34
+    }
+  },
+  "PPO": {
+    "algorithm": "PPO",
+    "environment": "custom",
+    "n_episodes": 100,
+    "mean_reward": -0.018789999186992645,
+    "std_reward": 0.02650105580687523,
+    "min_reward": -0.10700000077486038,
+    "max_reward": 0.0020000000949949026,
+    "median_reward": -0.00800000037997961,
+    "q25_reward": -0.02850000001490116,
+    "q75_reward": 0.0010000000474974513,
+    "mean_length": 799.17,
+    "std_length": 33.875080811711726,
+    "eval_time_seconds": 340.98599314689636,
+    "custom_stats": {
+      "mean_original_reward": -9.01,
+      "mean_modified_reward": -16.694579999999963,
+      "reward_delta": -7.684579999999963,
+      "mean_goals_scored": 1.96,
+      "mean_goals_conceded": 10.97,
+      "mean_movement_bonuses": 0.0,
+      "mean_fire_bonuses": 799.17,
+      "mean_repetition_penalties": 540.61,
+      "mean_fire_window_penalties": 0.0
+    }
+  },
+  "A2C": {
+    "algorithm": "A2C",
+    "environment": "custom",
+    "n_episodes": 100,
+    "mean_reward": -0.007370001170784235,
+    "std_reward": 0.011329302564263344,
+    "min_reward": -0.05400000140070915,
+    "max_reward": 0.0020000000949949026,
+    "median_reward": -0.0020000000949949026,
+    "q25_reward": -0.013000000268220901,
+    "q75_reward": 0.0020000000949949026,
+    "mean_length": 846.52,
+    "std_length": 56.43659805480837,
+    "eval_time_seconds": 363.446830034256,
+    "custom_stats": {
+      "mean_original_reward": -3.05,
+      "mean_modified_reward": -10.267599999999993,
+      "reward_delta": -7.217599999999993,
+      "mean_goals_scored": 7.24,
+      "mean_goals_conceded": 10.29,
+      "mean_movement_bonuses": 37.92,
+      "mean_fire_bonuses": 775.51,
+      "mean_repetition_penalties": 527.96,
+      "mean_fire_window_penalties": 0.43
+    }
+  }
+}

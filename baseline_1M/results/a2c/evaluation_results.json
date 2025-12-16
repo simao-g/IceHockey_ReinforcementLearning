@@ -1,0 +1,14 @@
+{
+  "algorithm": "A2C",
+  "n_episodes": 100,
+  "mean_reward": -1.190000057220459,
+  "std_reward": 2.938350200653076,
+  "min_reward": -5.0,
+  "max_reward": 7.0,
+  "median_reward": -2.0,
+  "q25_reward": -3.0,
+  "q75_reward": 0.0,
+  "mean_length": 871.24,
+  "std_length": 27.424850045168885,
+  "eval_time_seconds": 379.24121260643005
+}

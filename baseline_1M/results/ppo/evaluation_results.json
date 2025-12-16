@@ -1,0 +1,14 @@
+{
+  "algorithm": "PPO",
+  "n_episodes": 100,
+  "mean_reward": 1.440000057220459,
+  "std_reward": 3.4592485427856445,
+  "min_reward": -3.0,
+  "max_reward": 6.0,
+  "median_reward": 0.0,
+  "q25_reward": 0.0,
+  "q75_reward": 6.0,
+  "mean_length": 862.2,
+  "std_length": 28.98723857148176,
+  "eval_time_seconds": 351.7461087703705
+}

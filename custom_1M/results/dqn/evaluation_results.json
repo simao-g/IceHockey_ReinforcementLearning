@@ -1,0 +1,26 @@
+{
+  "algorithm": "DQN",
+  "environment": "custom",
+  "n_episodes": 100,
+  "mean_reward": 0.0007500001229345798,
+  "std_reward": 0.0015580437611788511,
+  "min_reward": -0.00800000037997961,
+  "max_reward": 0.0020000000949949026,
+  "median_reward": 0.0010000000474974513,
+  "q25_reward": 0.0,
+  "q75_reward": 0.0020000000949949026,
+  "mean_length": 830.89,
+  "std_length": 45.37441900454484,
+  "eval_time_seconds": 342.10032320022583,
+  "custom_stats": {
+    "mean_original_reward": -4.41,
+    "mean_modified_reward": -3.634020000000033,
+    "reward_delta": 0.7759799999999673,
+    "mean_goals_scored": 5.78,
+    "mean_goals_conceded": 10.19,
+    "mean_movement_bonuses": 216.83,
+    "mean_fire_bonuses": 489.57,
+    "mean_repetition_penalties": 100.45,
+    "mean_fire_window_penalties": 0.34
+  }
+}

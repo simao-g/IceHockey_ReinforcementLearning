@@ -1,0 +1,35 @@
+{
+  "DQN": {
+    "algorithm": "DQN",
+    "completed": true,
+    "total_timesteps": 1000000,
+    "training_time_seconds": 22800.00923705101,
+    "training_time_hours": 6.333335899180836,
+    "timesteps_per_second": 43.85963135378719,
+    "final_model_path": "baseline_1M/models/dqn\\dqn_final_1M.zip",
+    "best_model_path": "baseline_1M/models/dqn\\best_model.zip",
+    "timestamp": "2025-12-14 18:40:12"
+  },
+  "PPO": {
+    "algorithm": "PPO",
+    "completed": true,
+    "total_timesteps": 1000000,
+    "training_time_seconds": 31302.40121769905,
+    "training_time_hours": 8.695111449360848,
+    "timesteps_per_second": 31.946430979696807,
+    "final_model_path": "baseline_1M/models/ppo\\ppo_final_1M.zip",
+    "best_model_path": "baseline_1M/models/ppo\\best_model.zip",
+    "timestamp": "2025-12-15 03:22:03"
+  },
+  "A2C": {
+    "algorithm": "A2C",
+    "completed": true,
+    "total_timesteps": 1000000,
+    "training_time_seconds": 34422.3721101284,
+    "training_time_hours": 9.561770030591223,
+    "timesteps_per_second": 29.050874146635614,
+    "final_model_path": "baseline_1M/models/a2c\\a2c_final_1M.zip",
+    "best_model_path": "baseline_1M/models/a2c\\best_model.zip",
+    "timestamp": "2025-12-15 12:55:52"
+  }
+}

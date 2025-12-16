@@ -1,0 +1,4 @@
+Algorithm,Mean Reward,Std,Median,Goals Scored,Goals Conceded,Reward Delta
+DQN,0.001,0.002,0.001,5.78,10.19,+0.776
+PPO,-0.019,0.027,-0.008,1.96,10.97,-7.685
+A2C,-0.007,0.011,-0.002,7.24,10.29,-7.218

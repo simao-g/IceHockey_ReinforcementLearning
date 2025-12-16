@@ -1,0 +1,26 @@
+{
+  "algorithm": "PPO",
+  "environment": "custom",
+  "n_episodes": 100,
+  "mean_reward": -0.018789999186992645,
+  "std_reward": 0.02650105580687523,
+  "min_reward": -0.10700000077486038,
+  "max_reward": 0.0020000000949949026,
+  "median_reward": -0.00800000037997961,
+  "q25_reward": -0.02850000001490116,
+  "q75_reward": 0.0010000000474974513,
+  "mean_length": 799.17,
+  "std_length": 33.875080811711726,
+  "eval_time_seconds": 340.98599314689636,
+  "custom_stats": {
+    "mean_original_reward": -9.01,
+    "mean_modified_reward": -16.694579999999963,
+    "reward_delta": -7.684579999999963,
+    "mean_goals_scored": 1.96,
+    "mean_goals_conceded": 10.97,
+    "mean_movement_bonuses": 0.0,
+    "mean_fire_bonuses": 799.17,
+    "mean_repetition_penalties": 540.61,
+    "mean_fire_window_penalties": 0.0
+  }
+}

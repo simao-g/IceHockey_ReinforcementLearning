@@ -1,0 +1,11 @@
+{
+  "algorithm": "DQN",
+  "completed": true,
+  "total_timesteps": 1000000,
+  "training_time_seconds": 22800.00923705101,
+  "training_time_hours": 6.333335899180836,
+  "timesteps_per_second": 43.85963135378719,
+  "final_model_path": "baseline_1M/models/dqn\\dqn_final_1M.zip",
+  "best_model_path": "baseline_1M/models/dqn\\best_model.zip",
+  "timestamp": "2025-12-14 18:40:12"
+}

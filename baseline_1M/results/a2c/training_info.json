@@ -1,0 +1,11 @@
+{
+  "algorithm": "A2C",
+  "completed": true,
+  "total_timesteps": 1000000,
+  "training_time_seconds": 34422.3721101284,
+  "training_time_hours": 9.561770030591223,
+  "timesteps_per_second": 29.050874146635614,
+  "final_model_path": "baseline_1M/models/a2c\\a2c_final_1M.zip",
+  "best_model_path": "baseline_1M/models/a2c\\best_model.zip",
+  "timestamp": "2025-12-15 12:55:52"
+}

@@ -1,0 +1,68 @@
+{
+  "DQN": {
+    "algorithm": "DQN",
+    "environment": "custom",
+    "completed": true,
+    "total_timesteps": 1000000,
+    "training_time_seconds": 10222.125746965408,
+    "training_time_hours": 2.839479374157058,
+    "timesteps_per_second": 97.82701022797191,
+    "reward_params": {
+      "goal_scored_reward": 1.0,
+      "goal_conceded_penalty": -1.0,
+      "movement_bonus": 0.001,
+      "fire_bonus": 0.002,
+      "repetition_penalty_base": -0.001,
+      "repetition_threshold": 5,
+      "fire_window_penalty": -0.01,
+      "fire_window_size": 30
+    },
+    "final_model_path": "custom_1M/models/dqn\\dqn_custom_final_1M.zip",
+    "best_model_path": "custom_1M/models/dqn\\best_model.zip",
+    "timestamp": "2025-12-16 12:32:50"
+  },
+  "PPO": {
+    "algorithm": "PPO",
+    "environment": "custom",
+    "completed": true,
+    "total_timesteps": 1000000,
+    "training_time_seconds": 11497.782147884369,
+    "training_time_hours": 3.1938283744123246,
+    "timesteps_per_second": 86.97329512231221,
+    "reward_params": {
+      "goal_scored_reward": 1.0,
+      "goal_conceded_penalty": -1.0,
+      "movement_bonus": 0.001,
+      "fire_bonus": 0.002,
+      "repetition_penalty_base": -0.001,
+      "repetition_threshold": 5,
+      "fire_window_penalty": -0.01,
+      "fire_window_size": 30
+    },
+    "final_model_path": "custom_1M/models/ppo\\ppo_custom_final_1M.zip",
+    "best_model_path": "custom_1M/models/ppo\\best_model.zip",
+    "timestamp": "2025-12-16 15:44:30"
+  },
+  "A2C": {
+    "algorithm": "A2C",
+    "environment": "custom",
+    "completed": true,
+    "total_timesteps": 1000000,
+    "training_time_seconds": 13641.062469959259,
+    "training_time_hours": 3.7891840194331277,
+    "timesteps_per_second": 73.30807275476003,
+    "reward_params": {
+      "goal_scored_reward": 1.0,
+      "goal_conceded_penalty": -1.0,
+      "movement_bonus": 0.001,
+      "fire_bonus": 0.002,
+      "repetition_penalty_base": -0.001,
+      "repetition_threshold": 5,
+      "fire_window_penalty": -0.01,
+      "fire_window_size": 30
+    },
+    "final_model_path": "custom_1M/models/a2c\\a2c_custom_final_1M.zip",
+    "best_model_path": "custom_1M/models/a2c\\best_model.zip",
+    "timestamp": "2025-12-16 19:31:53"
+  }
+}

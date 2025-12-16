@@ -1,0 +1,26 @@
+{
+  "algorithm": "A2C",
+  "environment": "custom",
+  "n_episodes": 100,
+  "mean_reward": -0.007370001170784235,
+  "std_reward": 0.011329302564263344,
+  "min_reward": -0.05400000140070915,
+  "max_reward": 0.0020000000949949026,
+  "median_reward": -0.0020000000949949026,
+  "q25_reward": -0.013000000268220901,
+  "q75_reward": 0.0020000000949949026,
+  "mean_length": 846.52,
+  "std_length": 56.43659805480837,
+  "eval_time_seconds": 363.446830034256,
+  "custom_stats": {
+    "mean_original_reward": -3.05,
+    "mean_modified_reward": -10.267599999999993,
+    "reward_delta": -7.217599999999993,
+    "mean_goals_scored": 7.24,
+    "mean_goals_conceded": 10.29,
+    "mean_movement_bonuses": 37.92,
+    "mean_fire_bonuses": 775.51,
+    "mean_repetition_penalties": 527.96,
+    "mean_fire_window_penalties": 0.43
+  }
+}
