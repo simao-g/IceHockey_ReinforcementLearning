@@ -23,6 +23,8 @@ IceHockey-v5 is a competitive Atari environment where:
 
 - The game runs in continuous time with decisions at every timestep
 
+![IceHockey agent playing](videos\ice_hockey.gif)
+
 ### Observations
 
 The environment provides observations in the form of raw RGB frames captured directly from the game screen. The agent has no access to the internal game state, such as exact positions, velocities, or puck ownership, resulting in a partially observable environment.
